@@ -6,7 +6,7 @@ A versatile and driven IT professional with an Associate degree in Programming a
 
 ### 💻 Technical Skills
 
-* **Operating Systems & Software:** Windows 10/8/7/Vista, Ubuntu 16.04, VMware Workstation, BIOS/UEFI, Salesforce, macOS, Linux OS
+* **Operating Systems & Software:** Windows 11/10, Ubuntu 16.04, VMware Workstation, BIOS/UEFI, macOS, Linux OS
 * **Networking Infrastructure:** TCP/IP networking fundamentals, Subnetting, Ethernet cabling, mapping network drives
 * **Hardware & Core Infrastructure:** Installation and configuration of Motherboards, Power Supplies, SATA/eSATA/SSD/PATA storage, Expansion Cards, Heatsink Fans
 * **Programming & Scripting:** C++, Java, C#, Swift, Kotlin, JavaScript, jQuery, SQL, HTML, CSS, .NET, Unix, Shell scripting
