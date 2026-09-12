@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋 I'm Seth Barbot
 
-<!--
-**BigSeff12/BigSeff12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A versatile and driven IT professional with an Associate degree in Programming and a strong foundation in software development. Actively sharpening my technical expertise through a Google IT Support Professional Certificate with completed coursework in IT Fundamentals. Proficient in cross-platform troubleshooting (Windows/Mac/Linux OS), networking configurations, and delivering high-level customer service with clear communication.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+
+* **Operating Systems & Software:** Windows 10/8/7/Vista, Ubuntu 16.04, VMware Workstation, BIOS/UEFI, Salesforce, macOS, Linux OS
+* **Networking Infrastructure:** TCP/IP networking fundamentals, Subnetting, Ethernet cabling, mapping network drives
+* **Hardware & Core Infrastructure:** Installation and configuration of Motherboards, Power Supplies, SATA/eSATA/SSD/PATA storage, Expansion Cards, Heatsink Fans
+* **Programming & Scripting:** C++, Java, C#, Swift, Kotlin, JavaScript, jQuery, SQL, HTML, CSS, .NET, Unix, Shell scripting
+
+---
+
+### 🎓 Education & Certifications
+
+* **Associate of Applied Science (AAS) in Programming and Software Development** – LaGuardia Community College
+* **IT Support Professional Training** – Per Scholas
+* **Google IT Support Professional Certificate** *(In Progress)*
+* **CompTIA A+** *(In Progress)*
+* **Cisco Networking Academy:** Computer Hardware Basics & Operating Systems *(Earned May 2026)*
+
+---
+
+### ⚡ Current Focus & Interests
+
+* 🔭 **Currently Working On:** Preparing for the CompTIA A+ certification
+* 🌱 **Currently Learning:** Enterprise-level Help Desk workflows and IT administration
+* 👯 **Open To:** Collaboration on software and IT projects
+* ⚡ **Fun Fact:** Traveled across the entire Eastern Seaboard of the United States
